@@ -1,0 +1,47 @@
+.full{
+    background-color: rgb(195, 164, 227);
+}
+
+label{
+    font-weight: bolder;
+    text-align: center;
+    margin: 27px;
+    margin-left: 70%;
+}
+
+.btn{
+    margin: 20px;
+    margin-top:30px ;
+   
+}
+
+.text{
+    margin: 20px;
+    padding-right: 45px;
+    margin-left: 20%;
+    height: 40px;
+    width: 300px;
+}
+.section{
+    margin-top: 90px;
+    
+}
+.text1{
+    margin: 20px;
+    padding-right: 45px;
+    margin-left: 20%;
+}
+.p{
+    text-align: center;
+    margin: 20px;
+    padding-top: 10px;
+}
+.message{
+    text-align: center;
+    margin-top: 17%;
+   
+}
+.text2{
+    color: rgb(50, 104, 66);
+    
+}
